@@ -42,11 +42,11 @@ export default {
 .hienTuTu-leave-active{
     transition: all 1s ease;
 }
-/* start  enter*/
+/* start  leave*/
 .hienTuTu-leave{
     opacity: 1;
 }
-/* end enter  */
+/* end leave  */
 .hienTuTu-leave-to{
     opacity: 0;
 }
