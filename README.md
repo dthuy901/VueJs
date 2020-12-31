@@ -1,4 +1,5 @@
-# hocvuejs
+# learn vuejs
+live app: https://vuejs-psi.vercel.app/
 
 ## Project setup
 ```
